@@ -1,0 +1,5 @@
+﻿  conversions.cpp
+C:\Users\Bilal khan\source\repos\postfixconversions\postfixconversions\conversions.cpp(46,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Bilal khan\source\repos\postfixconversions\postfixconversions\conversions.cpp(57,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Bilal khan\source\repos\postfixconversions\postfixconversions\conversions.cpp(96,20): warning C4018: '<': signed/unsigned mismatch
+  postfixconversions.vcxproj -> C:\Users\Bilal khan\source\repos\postfixconversions\Debug\postfixconversions.exe
